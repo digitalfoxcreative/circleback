@@ -1,1 +1,1 @@
-"use strict";$(function(){page.config({disableAOSonMobile:!0,smoothScroll:!0})});
+"use strict";$(function(){page.config({disableAOSonMobile:!0,smoothScroll:!1})});
